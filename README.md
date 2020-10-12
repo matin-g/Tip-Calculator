@@ -15,7 +15,7 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-- [ ] Blue and green color cheme
+- [ ] Blue and green color scheme
 
 ## Video Walkthrough
 
